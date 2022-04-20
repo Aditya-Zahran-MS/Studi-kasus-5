@@ -17,7 +17,8 @@ private:
   cout<<"========="<<endl;
   cout<<"SKS"<<endl;
   cout<<"========="<<endl;
-  cout<<"Daftar Matkul"
+  cout<<"Daftar Matkul"<<endl;
+  cout<<"1. Alpro"<<endl;
   cout<<"Masukkan Nim  : ";cin>>nim;
   cout<<"Masukkan Nama  : ";cin>>nama;
   cout<<"Masukkan jumlah matkul : ";cin>>matkul;
