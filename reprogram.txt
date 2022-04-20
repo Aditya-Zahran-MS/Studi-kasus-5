@@ -1,0 +1,10 @@
+SKS
+matkul
+1. alpro 3sks
+2. pweb 2sks
+masukan nim : 2100018000
+masukan nama : joni
+masukan daftar mata kuliah : alpro, pweb
+masukan jumlah sks : 2
+diskon : 75.000
+masukan total bayar : 562.500
